@@ -1,6 +1,6 @@
 # INSTRUÇÕES
 
-Ao descompactar, rode somente a pasta dentro da principal. Ex. PROJETON2-master, rode a pasta dentro desta. E não a com master. Caso contrário, o Vue.Js apontará como duplicação de pasta. "index.html duplicados".
+Descompacte o arquivo baixado.
 
 Depois, abra um terminal integrado na pasta backend e digite "npm start".
 
