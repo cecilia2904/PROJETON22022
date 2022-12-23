@@ -1,6 +1,8 @@
-# PROJETON22022
+# INSTRUÇÕES
 
-Abra um terminal integrado na pasta backend e digite "npm start".
+Ao descompactar, rode somente a pasta dentro da principal. Ex. PROJETON2-master, rode a pasta dentro desta. E não a com master. Caso contrário, o Vue.Js apontará como duplicação de pasta. "index.html duplicados".
+
+Depois, abra um terminal integrado na pasta backend e digite "npm start".
 
 Em seguida, abra um terminal integrado na pasta frontend e digite "npm run serve". Ele irá fornecer um IP de local host. Basta copiá-lo e jogar no navegador.
 
